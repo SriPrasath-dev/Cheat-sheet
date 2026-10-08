@@ -14,3 +14,19 @@ for(int right = 0; right < arr.length; right++)
         left++;
     }
 }
+
+
+int left = 0;
+
+for(int right = 0; right < arr.length; right++)
+{
+    // add arr[right]
+
+    while(condition)
+    {
+        // update answer
+
+        // remove arr[left]
+        left++;
+    }
+}
